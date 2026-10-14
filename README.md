@@ -164,3 +164,6 @@ The live FastAPI telemetry history is held in memory, so it resets when the back
 =======
 # Smart-Waste-MAnagement-System
 >>>>>>> d4de50ed5bb67278c86b14aa24e427e8ef9c54c2
+>>>>>>>
+>>>>>>> Contribution
+>>>>>>> Rupesh Yadav
