@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Waste Management: IoT and Big Data Analytics
 
 A smart-city waste-management project for Indian cities. It combines a live operations dashboard with a scalable Hadoop and PySpark batch-analysis workflow.
@@ -160,3 +161,6 @@ Both the FastAPI and PySpark paths apply the same core rules:
 ## Important demo limitation
 
 The live FastAPI telemetry history is held in memory, so it resets when the backend restarts. The HDFS + Spark workflow is the persistent, scalable analytics path; in a production deployment, its processed outputs would be stored in a data warehouse or served through an analytics API.
+=======
+# Smart-Waste-MAnagement-System
+>>>>>>> d4de50ed5bb67278c86b14aa24e427e8ef9c54c2
