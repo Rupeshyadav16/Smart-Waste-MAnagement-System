@@ -1,0 +1,21 @@
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Database
+*.db
+
+# Generated IoT datasets and Spark outputs
+data/raw/*.csv
+data/processed/
+
+# System files
+.DS_Store
+
+backend/.venv/
